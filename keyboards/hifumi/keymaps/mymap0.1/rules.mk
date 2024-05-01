@@ -1,0 +1,2 @@
+EXTRAKEY_ENABLE = yes
+MACRO_ENABLE = yes
